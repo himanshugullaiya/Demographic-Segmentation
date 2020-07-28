@@ -1,3 +1,3 @@
 # Demographic-Segmentation
-Demographic Segmentation of Employees of a Bank using Clustering
+Demographic Segmentation of Customers of a Mall using Clustering
 ![](result.png)
